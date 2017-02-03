@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Hello, Non-AMPs</title>
+  </head>
+  <body>
+    <h1>Welcome to the mobile web</h1>
+	<img src="welcome.jpg" alt="Welcome"></img>
+	<link rel="amphtml" href="https://www.example.com/url/to/amp/document.html">
+  </body>
+</html>
